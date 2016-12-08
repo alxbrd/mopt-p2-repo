@@ -9,7 +9,7 @@
     <packaging>pom</packaging>
     <version>1.0.0</version>
     <properties>
-    	<henshin_version>1.4.0.201606151103</henshin_version>
+    	<henshin_version>1.4.0.201611301251</henshin_version>
     </properties>
     <build>
         <plugins>
@@ -28,6 +28,9 @@
 				</artifact>                                
 				<artifact>
 				    <id>org.moeaframework:moeaframework:2.11</id>
+                                </artifact>
+				<artifact>
+				    <id>com.google.code.gson:gson:2.8.0</id>
                                 </artifact>
                             </artifacts>
                             <p2>
@@ -49,7 +52,7 @@
     <repositories>
         <repository>
             <id>henshin</id>
-            <url>http://download.eclipse.org/modeling/emft/henshin/updates/release</url>
+            <url>http://download.eclipse.org/modeling/emft/henshin/updates/release/</url>
             <layout>p2</layout>
         </repository>
     </repositories>
