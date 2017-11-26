@@ -36,6 +36,9 @@
 				<artifact>
 				    <id>com.github.mifmif:generex:1.0.2</id>
 				</artifact>
+        <artifact>
+            <id>net.sf.supercsv:super-csv:2.4.0</id>
+        </artifact>
                             </artifacts>
                         </configuration>
                     </execution>
