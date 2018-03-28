@@ -42,7 +42,13 @@
 				<artifact>
 				    <id>org.apache.qpid:qpid-jms-client:0.27.0</id>
 				</artifact>
-                            </artifacts>
+				<artifact>
+				    <id>org.apache.geronimo.specs:geronimo-jms_1.1_spec:1.1.1</id>
+				</artifact>
+                <artifact>
+                    <id>org.hamcrest:hamcrest-all:1.3</id>
+                </artifact>
+</artifacts>
                         </configuration>
                     </execution>
                 </executions>
