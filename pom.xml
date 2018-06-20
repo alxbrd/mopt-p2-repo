@@ -25,7 +25,7 @@
                         <configuration>
                             <artifacts>
 				<artifact>
-                                    <id>org.mockito:mockito-all:1.9.5</id>
+                                    <id>org.mockito:mockito-core:1.9.5</id>
 				</artifact>
 				<artifact>
 				    <id>org.moeaframework:moeaframework:2.12</id>
@@ -52,6 +52,7 @@
                     <id>org.json:json:20140107</id>
                 </artifact>
 </artifacts>
+
                         </configuration>
                     </execution>
                 </executions>
