@@ -49,7 +49,7 @@
 				    <id>org.apache.geronimo.specs:geronimo-jms_1.1_spec:1.1.1</id>
 				</artifact>
                 <artifact>
-                    <id>org.hamcrest:hamcrest-junit:2.0.0.0</id>
+                    <id>org.hamcrest:java-hamcrest:2.0.0.0</id>
                 </artifact>
                 <artifact>
                     <id>org.json:json:20140107</id>
