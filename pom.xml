@@ -28,7 +28,7 @@
                      <id>org.mockito:mockito-core:1.9.5</id>
 				</artifact>
                 <artifact>
-                    <id>org.objenesis:objenesis:2.6</id>
+                    <id>org.objenesis:objenesis:1.0</id>
                 </artifact>
                 <artifact>
 				    <id>org.moeaframework:moeaframework:2.12</id>
