@@ -55,7 +55,7 @@
                     <id>org.json:json:20140107</id>
                 </artifact>
                 <artifact>
-                    <id>junit:junit:4.9</id>
+                    <id>junit:junit-dep:4.11</id>
                 </artifact>
 </artifacts>
 
