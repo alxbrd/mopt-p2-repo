@@ -23,13 +23,10 @@
                         <id>default-cli</id>
 			<!-- Documentation: -->
                         <configuration>
-                            <artifacts>
+            <artifacts>
 				<artifact>
                      <id>org.mockito:mockito-core:2.19.0</id>
 				</artifact>
-                <artifact>
-                    <id>org.objenesis:objenesis:2.6</id>
-                </artifact>
                 <artifact>
 				    <id>org.moeaframework:moeaframework:2.12</id>
                                 </artifact>
@@ -54,13 +51,7 @@
                 <artifact>
                     <id>org.json:json:20140107</id>
                 </artifact>
-                <artifact>
-                    <id>org.junit.jupiter:junit-jupiter-engine:5.2.0</id>
-                </artifact>
-                <artifact>
-                    <id>org.junit.vintage:junit-vintage-engine:5.2.0</id>
-                </artifact>
-</artifacts>
+            </artifacts>
 
                         </configuration>
                     </execution>
