@@ -51,6 +51,9 @@
                 <artifact>
                     <id>org.json:json:20140107</id>
                 </artifact>
+                <artifact>
+                    <id>commons-cli:commons-cli:1.4</id>
+                </artifact>
             </artifacts>
 
                         </configuration>
