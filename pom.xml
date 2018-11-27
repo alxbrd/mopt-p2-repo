@@ -24,10 +24,14 @@
 			<!-- Documentation: -->
                         <configuration>
             <artifacts>
+            			<artifact>
+            				<id>org.mockito:mockito-core:1.9.5</id>
+            			</artifact>
+            			</artifact>
 				<artifact>
-                     <id>org.mockito:mockito-core:2.19.0</id>
+                     			<id>org.mockito:mockito-core:2.19.0</id>
 				</artifact>
-                <artifact>
+                		<artifact>
 				    <id>org.moeaframework:moeaframework:2.12</id>
                                 </artifact>
 				<artifact>
