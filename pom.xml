@@ -23,7 +23,10 @@
                         <id>default-cli</id>
 			<!-- Documentation: -->
                         <configuration>
-            <artifacts>
+            		<artifacts>
+                       		<artifact>
+                       			<id>org.mockito:mockito-core:2.19.0</id>
+				</artifact>
             			<artifact>
             				<id>org.mockito:mockito-all:1.9.5</id>
             			</artifact>
@@ -45,17 +48,16 @@
 				<artifact>
 				    <id>org.apache.geronimo.specs:geronimo-jms_1.1_spec:1.1.1</id>
 				</artifact>
-                <artifact>
-                    <id>org.hamcrest:java-hamcrest:2.0.0.0</id>
-                </artifact>
-                <artifact>
-                    <id>org.json:json:20140107</id>
-                </artifact>
-                <artifact>
-                    <id>commons-cli:commons-cli:1.4</id>
-                </artifact>
-            </artifacts>
-
+				<artifact>
+				    <id>org.hamcrest:java-hamcrest:2.0.0.0</id>
+				</artifact>
+				<artifact>
+				    <id>org.json:json:20140107</id>
+				</artifact>
+				<artifact>
+				    <id>commons-cli:commons-cli:1.4</id>
+				</artifact>
+            		</artifacts>
                         </configuration>
                     </execution>
                 </executions>
